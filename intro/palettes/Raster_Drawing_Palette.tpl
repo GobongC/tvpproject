@@ -8,7 +8,7 @@
       color_0 3 255 255 255 0 
     </style>
     <style>
-      color_1 3 255 87 87 255 
+      color_1 3 0 0 0 255 
     </style>
     <style>
       color_2 3 255 255 255 255 
