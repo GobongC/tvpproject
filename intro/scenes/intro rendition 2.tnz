@@ -40,7 +40,7 @@
           24 
         </fps>
         <path>
-          "/Users/choiy11/Documents/GitHub/tvpproject/output/render2_charonly..png"
+          "/Users/choiy11/Documents/GitHub/tvpproject/output/smoke render/smoke.png"
         </path>
         <bpp>
           32 
@@ -645,7 +645,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='25'/><level id='26'/><level id='27'/><level id='23'/><level id='24'/><level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><zeraryFxLevel id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/><level id='21'/><level id='22'/><level id='28'/><level id='29'/><level id='30'/><level id='31'/><level id='32'/><level id='33'/>
+        <zeraryFxLevel id='8'/><level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/><level id='21'/><level id='22'/><level id='23'/><level id='24'/><level id='25'/><level id='26'/><level id='27'/><level id='28'/><level id='29'/><level id='30'/><level id='31'/><level id='32'/><level id='33'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -736,7 +736,7 @@
       <levelColumn id='37'>
         
         <status>
-          0 
+          3 
         </status>
         <cells>
           <cell>
@@ -792,7 +792,7 @@
       <levelColumn id='39'>
         
         <status>
-          0 
+          3 
         </status>
         <cells>
           <cell>
@@ -830,7 +830,7 @@
       <levelColumn id='41'>
         
         <status>
-          0 
+          3 
         </status>
         <cells>
           <cell>
@@ -1081,7 +1081,7 @@
       <levelColumn id='43'>
         
         <status>
-          0 
+          3 
         </status>
         <cells>
           <cell>
@@ -1561,7 +1561,7 @@
       <levelColumn id='49'>
         
         <status>
-          0 
+          3 
         </status>
         <cells>
           <cell>
@@ -3382,22 +3382,19 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_zeraryColumnFx id='35'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='38'/>
+          <Toonz_columnFx id='42'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='40'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='42'/>
+          <Toonz_columnFx id='38'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='44'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='46'/>
+          <Toonz_columnFx id='52'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='48'/>
@@ -3406,7 +3403,10 @@
           <Toonz_columnFx id='50'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='52'/>
+          <Toonz_columnFx id='46'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_zeraryColumnFx id='35'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -3497,5 +3497,6 @@
     "| #24  29 Jul 22   20:33                |"
     "| #25  29 Jul 22   20:35                |"
     "| #26  29 Jul 22   20:40                |"
+    "| #27  29 Jul 22   20:43                |"
   </history>
   </tnz>
