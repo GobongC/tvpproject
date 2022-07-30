@@ -17,7 +17,7 @@
       color_1 3 225 0 0 255 
     </style>
     <style>
-      color 3 0 0 0 255 
+      color_4 3 0 255 13 255 
     </style>
     <style>
       color 3 0 0 0 255 
@@ -62,7 +62,7 @@
         colors 
       </name>
       <indices>
-        0 1 10 11 12 13 14 15 16 3 2 
+        0 1 10 11 12 13 14 15 16 3 2 4 
       </indices>
       </page>
     </stylepages>
