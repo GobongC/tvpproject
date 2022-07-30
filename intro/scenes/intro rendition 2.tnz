@@ -25,10 +25,10 @@
     <outputs>
       <output name="main">
         <range>
-          41 381 
+          185 381 
         </range>
         <step>
-          1 
+          422 
         </step>
         <shrink>
           1 
@@ -40,7 +40,7 @@
           24 
         </fps>
         <path>
-          "/Users/choiy11/Desktop/character render/..png"
+          "/Users/choiy11/Documents/GitHub/render.mp4"
         </path>
         <bpp>
           32 
@@ -49,7 +49,7 @@
           0 
         </multimedia>
         <threadsIndex>
-          2 
+          0 
         </threadsIndex>
         <maxTileSizeIndex>
           0 
@@ -365,7 +365,7 @@
         </Outline>
       </vectorizerParameters>
     <bgColor>
-      255 255 255 0 
+      255 255 255 255 
     </bgColor>
     <markers>
       6 0 
@@ -3256,7 +3256,7 @@
           <Toonz_zeraryColumnFx id='35'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='52'/>
+          <Toonz_columnFx id='38'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='48'/>
@@ -3274,10 +3274,10 @@
           <Toonz_columnFx id='42'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='38'/>
+          <Toonz_columnFx id='40'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='40'/>
+          <Toonz_columnFx id='52'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -3364,5 +3364,6 @@
     "| #20  29 Jul 22   19:50                |"
     "| #21  29 Jul 22   19:56                |"
     "| #22  29 Jul 22   20:02                |"
+    "| #23  29 Jul 22   20:15                |"
   </history>
   </tnz>
