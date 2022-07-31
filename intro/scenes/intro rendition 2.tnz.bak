@@ -40,7 +40,7 @@
           24 
         </fps>
         <path>
-          "/Users/choiy11/Documents/GitHub/tvpproject/output/smoke render/smoke.png"
+          "/Users/choiy11/Desktop/seconddraft.mp4"
         </path>
         <bpp>
           32 
@@ -49,7 +49,7 @@
           0 
         </multimedia>
         <threadsIndex>
-          2 
+          0 
         </threadsIndex>
         <maxTileSizeIndex>
           0 
@@ -724,7 +724,7 @@
         </Toonz_zeraryColumnFx>
         
         <status>
-          3 
+          0 
         </status>
         <cells>
           <cell>
@@ -736,7 +736,7 @@
       <levelColumn id='37'>
         
         <status>
-          3 
+          0 
         </status>
         <cells>
           <cell>
@@ -792,7 +792,7 @@
       <levelColumn id='39'>
         
         <status>
-          3 
+          0 
         </status>
         <cells>
           <cell>
@@ -830,7 +830,7 @@
       <levelColumn id='41'>
         
         <status>
-          3 
+          0 
         </status>
         <cells>
           <cell>
@@ -1081,7 +1081,7 @@
       <levelColumn id='43'>
         
         <status>
-          3 
+          0 
         </status>
         <cells>
           <cell>
@@ -1561,7 +1561,7 @@
       <levelColumn id='49'>
         
         <status>
-          3 
+          0 
         </status>
         <cells>
           <cell>
@@ -3382,7 +3382,7 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='42'/>
+          <Toonz_zeraryColumnFx id='35'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='40'/>
@@ -3394,19 +3394,19 @@
           <Toonz_columnFx id='44'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='52'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='48'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='50'/>
+          <Toonz_columnFx id='42'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='46'/>
         </fxnode>
         <fxnode>
-          <Toonz_zeraryColumnFx id='35'/>
+          <Toonz_columnFx id='50'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='48'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='52'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -3498,5 +3498,7 @@
     "| #25  29 Jul 22   20:35                |"
     "| #26  29 Jul 22   20:40                |"
     "| #27  29 Jul 22   20:43                |"
+    "| #28  29 Jul 22   21:09                |"
+    "| #29  31 Jul 22   14:24                |"
   </history>
   </tnz>
