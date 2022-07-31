@@ -14,7 +14,7 @@
       color_2 3 77 72 69 255 
     </style>
     <style>
-      color_3 3 42 175 195 255 
+      color_3 3 82 124 181 255 
     </style>
     </styles>
   <stylepages>

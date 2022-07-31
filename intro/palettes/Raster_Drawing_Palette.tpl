@@ -8,7 +8,7 @@
       color_0 3 255 255 255 0 
     </style>
     <style>
-      color_1 3 225 0 0 255 
+      color_1 3 185 0 9 255 
     </style>
     <style>
       color_2 3 111 77 62 255 
@@ -37,6 +37,9 @@
     <style>
       color_10 3 88 162 209 255 
     </style>
+    <style>
+      color_1 3 0 0 0 255 
+    </style>
     </styles>
   <stylepages>
     <page>
@@ -44,7 +47,7 @@
         colors 
       </name>
       <indices>
-        0 1 2 3 4 5 6 7 8 9 10 
+        0 1 2 3 4 5 6 7 8 9 10 11 
       </indices>
       </page>
     </stylepages>

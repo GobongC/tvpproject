@@ -11,7 +11,7 @@
       color_1 3 0 0 0 255 
     </style>
     <style>
-      color_2 3 242 242 231 255 
+      color_2 3 239 239 189 255 
     </style>
     <style>
       color_3 3 146 185 239 255 
